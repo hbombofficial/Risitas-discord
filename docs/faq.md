@@ -1,4 +1,5 @@
-# Risitas FAQ
+# Risitas Documentation
+## Risitas FAQ
 
 Q: Why can't I use .env? A: Python seems to give an `ImportError` when trying to load `load_dotenv`, which is the package that would load data from a .env file. 
 
