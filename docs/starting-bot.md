@@ -1,4 +1,5 @@
-# Starting the bot
+# Risitas Documentation
+## Starting the bot
 
 If you haven't already, install the required packages listed in [Dependencies](docs/dependencies.md)
 
