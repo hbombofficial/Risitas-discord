@@ -1,10 +1,10 @@
 # Risitas Documentation
 
-Risitas is a [Discord](https://discord.com/) bot that has no specific purpose just yet.
+Risitas is a [Discord](https://discord.com/) bot made with [discord.py](https://github.com/Rapptz/discord.py/)
 
 Risitas was named in honor of Juan Joya Borja AKA. El Risitas. Rest in Peace.
 
-### Docs
+## Docs
 * [Required Dependencies](docs/dependencies.md)
 * [Frequently Asked Questions](docs/faq.md)
 * [Starting The Bot](docs/starting-bot.md)
@@ -15,10 +15,6 @@ Risitas was named in honor of Juan Joya Borja AKA. El Risitas. Rest in Peace.
 ### Support
 
 If you require assistance with Risitas, join the official [Risitas Support Discord Server](https://discord.gg/daVywQMDam)
-
-## Credits 
-
-Big thanks to the discord.py [discord](https://discord.gg/dpy) community for the help.
 
 ### License
 [MIT License](https://github.com/hbombofficial/Risitas-discord/blob/stable/LICENSE)
