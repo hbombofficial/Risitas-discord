@@ -1,8 +1,7 @@
 # Risitas Documentation
 ## Starting the bot
-### On Windows
 If you haven't already, install the required packages listed in [Dependencies](docs/dependencies.md)
-
+### On Windows
 1. Create a bot in the [Discord Developer Portal](https://discord.com/developers/)
 2. Paste your bot's token in the `token.txt` file.
 3. Run the command `cd (risitas folder) && py bot.py` in a terminal. (ex. `cd C:\Users\hbomb\discord-bots\risitas && py bot.py`)
